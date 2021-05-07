@@ -1,9 +1,0 @@
-1.ls -l
-2.move
-3.chomd
-4.pwd
-5.ping
-6.find
-7.ps
-8.kill
-9.diff

@@ -1,0 +1,7 @@
+1.true
+2.In computer science, a pointer is an object in many programming languages that stores a memory address.
+  Pointers and arrays have a special relationship.
+  An array is represented by a variable that is associated with the address of its first storage location.
+  A pointer is also the adress of a storage location with a defined type, so D permits the use of 
+  array [] index notation with both pointer variables and array variables.
+3.The compiler will generate(flag) an error:" indirection requires pointer operand 

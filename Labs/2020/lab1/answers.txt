@@ -1,0 +1,10 @@
+1.set args 1 2 3/run <args>
+2.break
+3.step(s)
+4.next
+5.continue
+6.print 
+7.display
+8.info variables 
+9.quit or q or ctrl+d
+SomeCommmand &> primenumbers.txt
